@@ -8,6 +8,6 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["forest"],
+    themes: ["forest"],// You can change to any daisyUI theme you like
   },
 };
